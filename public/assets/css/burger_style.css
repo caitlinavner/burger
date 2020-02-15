@@ -1,0 +1,41 @@
+body {
+    font-family: 'Bold', cursive;
+    text-decoration: underline;
+    color: rgb(90, 90, 199);
+    width: 100%;
+    background-image: no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+    background-image: no-repeat;
+    margin: auto 0;
+    text-align: center;
+    margin-top: 2%;
+}
+
+#avail {
+    float: left;
+    margin-right: 6%;
+    margin-left: 10%;
+
+
+}
+
+#devoured {
+    float: left;
+
+}
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+}
+
+
+#add {
+    clear: both;
+    margin-left: 25%;
+}
